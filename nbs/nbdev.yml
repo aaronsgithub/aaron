@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "aaron"
+  site-url: "https://aaronsgithub.github.io/aaron"
+  description: "A python library of convenience"
+  repo-branch: main
+  repo-url: "https://github.com/aaronsgithub/aaron"
