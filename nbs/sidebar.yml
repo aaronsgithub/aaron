@@ -1,0 +1,23 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - defaults.ipynb
+      - mpl.ipynb
+      - openai.ipynb
+      - utils.ipynb
+      - web.ipynb
+      - section: ai
+        contents:
+          - ai/accel.ipynb
+          - ai/activations.ipynb
+          - ai/augment.ipynb
+          - ai/conv.ipynb
+          - ai/datasets.ipynb
+          - ai/fid.ipynb
+          - ai/init.ipynb
+          - ai/learner.ipynb
+          - ai/resnet.ipynb
+          - ai/sgd.ipynb
+          - ai/training.ipynb
+        href: ai/index.ipynb
